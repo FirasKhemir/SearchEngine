@@ -3,4 +3,4 @@ this is the code for a document based  search engine written in C++ the architec
 
 Here is a comparison image that highlights the differences in response time based on index type:
 
-![Comparison Image](comparison.png)
+![Comparison Image](compare.png)
